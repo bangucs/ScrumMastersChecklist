@@ -21,7 +21,7 @@
 * プロダクトバックログは、彼・彼女の最新の考えに基づいて優先度付されているかな？
 * バックログには、すべてのステークホルダの要望・要求が反映されているかな？バックログは"表に出ているもの"だってことを覚えておこう。
 * プロダクトバックログは扱いやすいサイズかな？扱いやすい数にしておくために、細かく具体的になったものを一番上に、ふわっとしたものを一番下にしておこう。一番上から遠く離れたバックログをやたらと分析するのは逆効果だ。開発している間に要求は変わっていくものだからね。
-* バックログにある要求は(特に一番上に近いもの)「INVEST(independent, negotiable, valuable, estimable, small, and testable  - See more at: https://www.scrumalliance.org/community/articles/2010/november/an-example-scrummaster-s-checklist#sthash.YiOwcsXJ.dpuf)」な形式になっているかな？
+* バックログにある要求は(特に一番上に近いもの)「INVEST(independent, negotiable, valuable, estimable, small, and testable  - See more at: https://www.scrumalliance.org/community/articles/2010/november/an-example-scrummaster-s-checklist#sthash.YiOwcsXJ.dpuf)」 な形式になっているかな？
 * Product Ownerに、技術的負債についてと、それを避ける方法について教えたことはあるかな？自動テストとリファクタリングは、全てのバックログアイテムのDoneの定義のピースとして追加しておけるかもしれない。
 * バックログは情報ラジエーターとして、全てのステークホルダーから丸見えになっているかな？
 * バックログの管理になにか自動ツールを使っているとしたら、本当にそれはみんなの役に立っているかな？自動的管理ツールは、Scrum Masterによる熱放射が無いと、情報冷蔵庫になってしまう危険性を秘めているんだ。
@@ -80,3 +80,6 @@
 ## 恐怖はあなたの友達
 一度あなたが変化を起こせるということを悟ったなら、それを行う事を怖がるだろう。それはあなたが正しい道にいることのサインだ。
 -- MJ
+
+Copyright 2007-2012 Michael James. http://www.scrummasterchecklist.org/  All Rights Reserved.
+翻訳 半谷 充生(mitsuo.hangai@gmail.com)
